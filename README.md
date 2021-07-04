@@ -1,24 +1,12 @@
-# logistic-front
+## .ENV
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+```bash
+BACKEND_URL = http://localhost:3000
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## RUN
 
-### Lints and fixes files
+```bash
+$ npm ci
+$ npm run serve
 ```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
